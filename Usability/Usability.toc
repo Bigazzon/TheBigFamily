@@ -1,0 +1,11 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Design and execution of the study}{1}{chapter.1}
+\contentsline {section}{\numberline {1.A}Evaluation method adopter}{1}{section.1.1}
+\contentsline {section}{\numberline {1.B}Scenarios defined for the test}{1}{section.1.2}
+\contentsline {section}{\numberline {1.C}Partecipants for the test}{1}{section.1.3}
+\contentsline {section}{\numberline {1.D}Usability variables to be measured}{1}{section.1.4}
+\contentsline {section}{\numberline {1.E}Test realization}{1}{section.1.5}
+\contentsline {chapter}{\numberline {2}Results}{2}{chapter.2}
+\contentsline {chapter}{\numberline {3}Discussion of results}{3}{chapter.3}
