@@ -7,4 +7,4 @@
 \contentsline {section}{\numberline {1.D}Usability variables to be measured}{2}{section.1.4}
 \contentsline {section}{\numberline {1.E}How the test was performed}{3}{section.1.5}
 \contentsline {chapter}{\numberline {2}Results}{4}{chapter.2}
-\contentsline {chapter}{\numberline {3}Discussion of results}{5}{chapter.3}
+\contentsline {chapter}{\numberline {3}Discussion of results}{6}{chapter.3}
