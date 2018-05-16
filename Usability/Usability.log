@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.16)  16 MAY 2018 16:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.16)  16 MAY 2018 17:27
 entering extended mode
 **./Usability.tex
 (Usability.tex
@@ -2168,11 +2168,11 @@ Package logreq Info: Writing requests to 'Usability.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33909 strings out of 493305
- 616856 string characters out of 3130237
+ 33911 strings out of 493305
+ 616876 string characters out of 3130237
  1214852 words of memory out of 3000000
  36926 multiletter control sequences out of 15000+200000
- 577553 words of font info for 73 fonts, out of 3000000 for 9000
+ 577644 words of font info for 74 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  47i,18n,71p,1156b,2272s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Alle/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy
@@ -2187,7 +2187,7 @@ e/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Users/
 Alle/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/User
 s/Alle/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmro12.pfb><C:/U
 sers/Alle/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
-Output written on Usability.pdf (7 pages, 215117 bytes).
+Output written on Usability.pdf (7 pages, 215212 bytes).
 PDF statistics:
  139 PDF objects out of 1000 (max. 8388607)
  17 named destinations out of 1000 (max. 500000)
