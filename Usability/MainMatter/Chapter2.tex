@@ -10,6 +10,27 @@
 % ------------------------------------------------------------------------ %
 %
 \chapter{Results}
+For execution of the test some rules about the task performance are used.
+Starting from the scoring method considered for the task success, the one used is the following:
+\begin{itemize}
+\item Complete success (without assistance) = 1
+\item Partial success, or if assistance given = 0.5
+\item Gives up or wrong answer = 0
+\end{itemize}
+For the determination of unsuccessful tasks, a task is considered unsuccessful if one of the following condition is matched:
+\begin{itemize}
+\item The user give up on trying to complete the task
+\item Three wrong paths, or three attempts from the start
+\item The cut-off time (threshold) is elapsed (for this test 4 minutes are chosen as cut-off time)
+\end{itemize}
+At last, action is considered an error if:
+\begin{itemize}
+\item The user enter incorrect data into a form field
+\item The user makes the wrong choice in a menu or drop-down list
+\item The user takes an incorrect sequence of actions
+\item The user fails to take a key action
+\end{itemize}
+
 %
 % ------------------------------------------------------------------------ %
 %
