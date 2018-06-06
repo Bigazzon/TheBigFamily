@@ -1,6 +1,5 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
-\defcounter {refsection}{0}\relax 
-\select@language {english}
+\babel@toc {english}{}
 \contentsline {chapter}{\numberline {1}Design and execution\\of the study}{1}{chapter.1}
 \contentsline {section}{\numberline {1.A}Evaluation method adopted}{1}{section.1.1}
 \contentsline {section}{\numberline {1.B}Task scenarios defined for the test}{1}{section.1.2}
