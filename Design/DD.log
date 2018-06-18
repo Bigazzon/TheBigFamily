@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.16)  6 JUN 2018 12:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.16)  18 JUN 2018 18:07
 entering extended mode
 **./DD.tex
 (DD.tex
@@ -1835,6 +1835,9 @@ File: italian.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
 
 LaTeX Warning: Label `fig:figure2' multiply defined.
 
+
+LaTeX Warning: Label `fig:figure2' multiply defined.
+
 )
 \openout1 = `DD.aux'.
 
@@ -2174,35 +2177,71 @@ Chapter 1.
 
 ]
 Chapter 2.
+<MainMatter/images/C-IDM.jpg, id=73, 1170.62344pt x 851.43094pt>
+File: MainMatter/images/C-IDM.jpg Graphic file (type jpg)
+<use MainMatter/images/C-IDM.jpg>
+Package pdftex.def Info: MainMatter/images/C-IDM.jpg  used on input line 20.
+(pdftex.def)             Requested size: 503.04591pt x 365.88731pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<MainMatter/images/L-IDM.jpg, id=74, 1244.39906pt x 834.86906pt>
+File: MainMatter/images/L-IDM.jpg Graphic file (type jpg)
+<use MainMatter/images/L-IDM.jpg>
+Package pdftex.def Info: MainMatter/images/L-IDM.jpg  used on input line 29.
+(pdftex.def)             Requested size: 503.04591pt x 337.49591pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<MainMatter/images/P-IDM.jpg, id=75, 1244.39906pt x 1643.3897pt>
+File: MainMatter/images/P-IDM.jpg Graphic file (type jpg)
+<use MainMatter/images/P-IDM.jpg>
+Package pdftex.def Info: MainMatter/images/P-IDM.jpg  used on input line 38.
+(pdftex.def)             Requested size: 437.26384pt x 577.45186pt.
+
+LaTeX Warning: Float too large for page by 9.95184pt on input line 41.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 ) (MainMatter/Chapter3.tex [2
 
-]
+] [3 <./MainMatter/images/C-IDM.jpg>] [4 <./MainMatter/images/L-IDM.jpg>] [5 <.
+/MainMatter/images/P-IDM.jpg>]
 Chapter 3.
-[3
+[6
 
-]) (MainMatter/Chapter4.tex [4]
+]) (MainMatter/Chapter4.tex [7]
 Chapter 4.
-) (MainMatter/Chapter5.tex [5
+) (MainMatter/Chapter5.tex [8
 
 ]
 Chapter 5.
-<MainMatter/ER.jpg, id=93, 773.89125pt x 447.6725pt>
-File: MainMatter/ER.jpg Graphic file (type jpg)
-<use MainMatter/ER.jpg>
-Package pdftex.def Info: MainMatter/ER.jpg  used on input line 18.
-(pdftex.def)             Requested size: 464.3478pt x 268.6124pt.
-[6
+<MainMatter/images/ER.jpg, id=111, 1202.24156pt x 1111.15125pt>
+File: MainMatter/images/ER.jpg Graphic file (type jpg)
+<use MainMatter/images/ER.jpg>
+Package pdftex.def Info: MainMatter/images/ER.jpg  used on input line 18.
+(pdftex.def)             Requested size: 464.3478pt x 429.15941pt.
 
- <./MainMatter/ER.jpg>]
-<MainMatter/DB.jpg, id=99, 785.93625pt x 474.77374pt>
-File: MainMatter/DB.jpg Graphic file (type jpg)
-<use MainMatter/DB.jpg>
-Package pdftex.def Info: MainMatter/DB.jpg  used on input line 27.
-(pdftex.def)             Requested size: 464.3478pt x 280.51253pt.
-) [7 <./MainMatter/DB.jpg>]
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9
+
+]
+<MainMatter/images/DB.jpg, id=116, 1154.06157pt x 1304.62407pt>
+File: MainMatter/images/DB.jpg Graphic file (type jpg)
+<use MainMatter/images/DB.jpg>
+Package pdftex.def Info: MainMatter/images/DB.jpg  used on input line 27.
+(pdftex.def)             Requested size: 464.3478pt x 524.92596pt.
+)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10] [11 <./MainMatter/images/ER.jpg>] [12 <./MainMatter/images/DB.jpg>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 266.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 266.
- (DD.aux)
+
+(DD.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 266.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 266.
 
@@ -2214,10 +2253,10 @@ Package logreq Info: Writing requests to 'DD.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34663 strings out of 493305
- 629552 string characters out of 3130237
- 1225849 words of memory out of 3000000
- 37635 multiletter control sequences out of 15000+200000
+ 34696 strings out of 493305
+ 630235 string characters out of 3130237
+ 1225942 words of memory out of 3000000
+ 37656 multiletter control sequences out of 15000+200000
  577826 words of font info for 76 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  61i,18n,96p,1149b,2274s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2231,9 +2270,9 @@ iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Alle/AppData/Local
 ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Users/All
 e/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Users/A
 lle/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmro12.pfb>
-Output written on DD.pdf (9 pages, 286413 bytes).
+Output written on DD.pdf (14 pages, 1327730 bytes).
 PDF statistics:
- 160 PDF objects out of 1000 (max. 8388607)
- 26 named destinations out of 1000 (max. 500000)
- 14447 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 188 PDF objects out of 1000 (max. 8388607)
+ 34 named destinations out of 1000 (max. 500000)
+ 14462 words of extra memory for PDF output out of 17280 (max. 10000000)
 
