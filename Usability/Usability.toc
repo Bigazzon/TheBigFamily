@@ -7,18 +7,25 @@
 \contentsline {section}{\numberline {1.C}Partecipants for the test}{2}{section.1.3}
 \contentsline {section}{\numberline {1.D}Usability variables to be measured}{2}{section.1.4}
 \contentsline {section}{\numberline {1.E}How the test was performed}{3}{section.1.5}
-\contentsline {chapter}{\numberline {2}Results}{4}{chapter.2}
-\contentsline {section}{\numberline {2.A}Test Rules}{4}{section.2.1}
-\contentsline {section}{\numberline {2.B}Documentation of the test}{5}{section.2.2}
-\contentsline {subsection}{\numberline {2.B.1}Task record sheet}{5}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.B.2}Post test questionnaires}{7}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.C}Aggregate data}{11}{section.2.3}
-\contentsline {subsection}{\numberline {2.C.1}Quantitative data}{12}{subsection.2.3.1}
-\contentsline {subsubsection}{Average time}{12}{section*.2}
-\contentsline {subsubsection}{Total number of error}{12}{section*.3}
-\contentsline {subsubsection}{Task success rate}{12}{section*.4}
-\contentsline {subsection}{\numberline {2.C.2}Qualitative data}{13}{subsection.2.3.2}
-\contentsline {subsubsection}{Data retrieved from observation}{13}{section*.5}
-\contentsline {subsubsection}{Data retrieved from the questionnaires}{13}{section*.6}
-\contentsline {subsection}{\numberline {2.C.3}Old results}{14}{subsection.2.3.3}
+\contentsline {section}{\numberline {1.F}Subject of the test}{3}{section.1.6}
+\contentsline {chapter}{\numberline {2}Results}{5}{chapter.2}
+\contentsline {section}{\numberline {2.A}Test Rules}{5}{section.2.1}
+\contentsline {section}{\numberline {2.B}Documentation of the test}{6}{section.2.2}
+\contentsline {subsection}{\numberline {2.B.1}Task record sheet}{6}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.B.2}Post test questionnaires}{8}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.C}Aggregate data}{13}{section.2.3}
+\contentsline {subsection}{\numberline {2.C.1}Quantitative data}{13}{subsection.2.3.1}
+\contentsline {subsubsection}{Average time}{13}{section*.2}
+\contentsline {subsubsection}{Total number of error}{13}{section*.3}
+\contentsline {subsubsection}{Task success rate}{14}{section*.4}
+\contentsline {subsection}{\numberline {2.C.2}Qualitative data}{14}{subsection.2.3.2}
+\contentsline {subsubsection}{Data retrieved from observation}{14}{section*.5}
+\contentsline {subsubsection}{Data retrieved from the questionnaires}{14}{section*.6}
 \contentsline {chapter}{\numberline {3}Discussion of results}{16}{chapter.3}
+\contentsline {section}{\numberline {3.A}Problem report}{16}{section.3.1}
+\contentsline {subsection}{\numberline {3.A.1}Quantitative data}{16}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.A.2}Qualitative data}{16}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.B}Final recommendations}{17}{section.3.2}
+\contentsline {subsection}{\numberline {3.B.1}Priority 1}{17}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.B.2}Priority 2}{17}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.B.3}Priority 3}{17}{subsection.3.2.3}
