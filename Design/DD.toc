@@ -1,5 +1,6 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
-\babel@toc {english}{}
+\defcounter {refsection}{0}\relax 
+\select@language {english}
 \contentsline {chapter}{\numberline {1}Abstract}{1}{chapter.1}
 \contentsline {chapter}{\numberline {2}Graphical representations}{2}{chapter.2}
 \contentsline {section}{\numberline {2.A}C-IDM}{2}{section.2.1}
