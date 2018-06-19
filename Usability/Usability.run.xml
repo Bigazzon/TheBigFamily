@@ -54,19 +54,19 @@
       <file>blx-compat.def</file>
       <file>biblatex.def</file>
       <file>blx-natbib.def</file>
-      <file>philosophy-modern.bbx</file>
-      <file>philosophy-classic.bbx</file>
-      <file>authoryear.bbx</file>
       <file>standard.bbx</file>
+      <file>authoryear.bbx</file>
       <file>philosophy-standard.bbx</file>
-      <file>philosophy-modern.cbx</file>
-      <file>philosophy-classic.cbx</file>
+      <file>philosophy-classic.bbx</file>
+      <file>philosophy-modern.bbx</file>
       <file>authoryear-comp.cbx</file>
+      <file>philosophy-classic.cbx</file>
+      <file>philosophy-modern.cbx</file>
       <file>biblatex.cfg</file>
-      <file>english-philosophy.lbx</file>
       <file>english.lbx</file>
-      <file>italian-philosophy.lbx</file>
+      <file>english-philosophy.lbx</file>
       <file>italian.lbx</file>
+      <file>italian-philosophy.lbx</file>
     </requires>
   </internal>
   <external package="biblatex" priority="5" active="0">
