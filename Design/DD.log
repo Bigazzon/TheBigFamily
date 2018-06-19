@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.16)  19 JUN 2018 00:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.16)  19 JUN 2018 22:31
 entering extended mode
 **./DD.tex
 (DD.tex
@@ -1842,6 +1842,36 @@ LaTeX Warning: Label `fig:figure2' multiply defined.
 
 LaTeX Warning: Label `fig:figure2' multiply defined.
 
+
+LaTeX Warning: Label `fig:figure2' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure2' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure2' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure2' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure2' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure2' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure2' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure2' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure2' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure2' multiply defined.
+
 )
 \openout1 = `DD.aux'.
 
@@ -2176,54 +2206,188 @@ config/pdftex.map}>] (DD.toc)
 
 ] (MainMatter/Chapter1.tex
 Chapter 1.
-) (MainMatter/Chapter2.tex [1
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--24
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 26.
+("C:\Users\Alle\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 26.
+)
+(MainMatter/Chapter2.tex [1
 
 
 ]
 Chapter 2.
-<MainMatter/images/C-IDM.jpg, id=73, 1170.62344pt x 851.43094pt>
+<MainMatter/images/C-IDM.jpg, id=74, 1170.62344pt x 851.43094pt>
 File: MainMatter/images/C-IDM.jpg Graphic file (type jpg)
 <use MainMatter/images/C-IDM.jpg>
-Package pdftex.def Info: MainMatter/images/C-IDM.jpg  used on input line 20.
-(pdftex.def)             Requested size: 444.99875pt x 323.66405pt.
-<MainMatter/images/L-IDM.jpg, id=74, 1244.39906pt x 834.86906pt>
-File: MainMatter/images/L-IDM.jpg Graphic file (type jpg)
-<use MainMatter/images/L-IDM.jpg>
-Package pdftex.def Info: MainMatter/images/L-IDM.jpg  used on input line 30.
-(pdftex.def)             Requested size: 503.04591pt x 337.49591pt.
+Package pdftex.def Info: MainMatter/images/C-IDM.jpg  used on input line 21.
+(pdftex.def)             Requested size: 398.56573pt x 289.88544pt.
 [2
 
- <./MainMatter/images/C-IDM.jpg>] [3 <./MainMatter/images/L-IDM.jpg>]
-<MainMatter/images/P-IDM.jpg, id=85, 1244.39906pt x 1549.28813pt>
+ <./MainMatter/images/C-IDM.jpg>]
+<MainMatter/images/L-IDM.jpg, id=80, 1243.64626pt x 715.92468pt>
+File: MainMatter/images/L-IDM.jpg Graphic file (type jpg)
+<use MainMatter/images/L-IDM.jpg>
+Package pdftex.def Info: MainMatter/images/L-IDM.jpg  used on input line 32.
+(pdftex.def)             Requested size: 580.43623pt x 334.13596pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[3]
+<MainMatter/images/P-IDM.jpg, id=85, 1218.05063pt x 1543.26563pt>
 File: MainMatter/images/P-IDM.jpg Graphic file (type jpg)
 <use MainMatter/images/P-IDM.jpg>
-Package pdftex.def Info: MainMatter/images/P-IDM.jpg  used on input line 41.
-(pdftex.def)             Requested size: 348.25937pt x 433.58496pt.
-)
-(MainMatter/Chapter3.tex [4 <./MainMatter/images/P-IDM.jpg>]
+Package pdftex.def Info: MainMatter/images/P-IDM.jpg  used on input line 43.
+(pdftex.def)             Requested size: 452.73955pt x 573.6132pt.
+
+
+LaTeX Warning: Float too large for page by 6.11319pt on input line 46.
+
+) (MainMatter/Chapter3.tex
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4 <./MainMatter/images/L-IDM.jpg>] [5 <./MainMatter/images/P-IDM.jpg>]
 Chapter 3.
-[5
+[6
 
-]) (MainMatter/Chapter4.tex [6]
+]) (MainMatter/Chapter4.tex [7]
 Chapter 4.
-) (MainMatter/Chapter5.tex [7
+<MainMatter/images/1-Homepage.png, id=108, 1233.408pt x 1440.582pt>
+File: MainMatter/images/1-Homepage.png Graphic file (type png)
+<use MainMatter/images/1-Homepage.png>
+Package pdftex.def Info: MainMatter/images/1-Homepage.png  used on input line 1
+7.
+(pdftex.def)             Requested size: 491.43765pt x 573.98048pt.
 
-]
+LaTeX Warning: Float too large for page by 6.48047pt on input line 20.
+
+<MainMatter/images/2-Group-page.png, id=110, 1234.6125pt x 994.917pt>
+File: MainMatter/images/2-Group-page.png Graphic file (type png)
+<use MainMatter/images/2-Group-page.png>
+Package pdftex.def Info: MainMatter/images/2-Group-page.png  used on input line
+ 23.
+(pdftex.def)             Requested size: 503.04591pt x 405.38336pt.
+<MainMatter/images/3-Multiple-topic-page.png, id=111, 1233.408pt x 1068.3915pt>
+
+File: MainMatter/images/3-Multiple-topic-page.png Graphic file (type png)
+<use MainMatter/images/3-Multiple-topic-page.png>
+Package pdftex.def Info: MainMatter/images/3-Multiple-topic-page.png  used on i
+nput line 29.
+(pdftex.def)             Requested size: 503.04591pt x 435.74472pt.
+<MainMatter/images/4-Single-topic-who-we-are.png, id=112, 1233.408pt x 939.51pt
+>
+File: MainMatter/images/4-Single-topic-who-we-are.png Graphic file (type png)
+<use MainMatter/images/4-Single-topic-who-we-are.png>
+Package pdftex.def Info: MainMatter/images/4-Single-topic-who-we-are.png  used 
+on input line 35.
+(pdftex.def)             Requested size: 503.04591pt x 383.18025pt.
+<MainMatter/images/5-Single-topic-contact-us.png, id=113, 1233.408pt x 1267.134
+pt>
+File: MainMatter/images/5-Single-topic-contact-us.png Graphic file (type png)
+<use MainMatter/images/5-Single-topic-contact-us.png>
+Package pdftex.def Info: MainMatter/images/5-Single-topic-contact-us.png  used 
+on input line 41.
+(pdftex.def)             Requested size: 503.04591pt x 516.8021pt.
+<MainMatter/images/6-Single-topic-news.png, id=114, 1233.408pt x 1323.7455pt>
+File: MainMatter/images/6-Single-topic-news.png Graphic file (type png)
+<use MainMatter/images/6-Single-topic-news.png>
+Package pdftex.def Info: MainMatter/images/6-Single-topic-news.png  used on inp
+ut line 47.
+(pdftex.def)             Requested size: 503.04591pt x 539.89116pt.
+<MainMatter/images/7-Single-topic-FAQ.png, id=115, 1233.408pt x 986.4855pt>
+File: MainMatter/images/7-Single-topic-FAQ.png Graphic file (type png)
+<use MainMatter/images/7-Single-topic-FAQ.png>
+Package pdftex.def Info: MainMatter/images/7-Single-topic-FAQ.png  used on inpu
+t line 53.
+(pdftex.def)             Requested size: 503.04591pt x 402.33928pt.
+<MainMatter/images/8-Group-event.png, id=116, 1233.408pt x 876.876pt>
+File: MainMatter/images/8-Group-event.png Graphic file (type png)
+<use MainMatter/images/8-Group-event.png>
+Package pdftex.def Info: MainMatter/images/8-Group-event.png  used on input lin
+e 59.
+(pdftex.def)             Requested size: 503.04591pt x 357.6349pt.
+<MainMatter/images/9-Multiple-topic-Event.png, id=117, 1233.408pt x 1150.2975pt
+>
+File: MainMatter/images/9-Multiple-topic-Event.png Graphic file (type png)
+<use MainMatter/images/9-Multiple-topic-Event.png>
+Package pdftex.def Info: MainMatter/images/9-Multiple-topic-Event.png  used on 
+input line 65.
+(pdftex.def)             Requested size: 503.04591pt x 469.15019pt.
+<MainMatter/images/10-Single-topic-help-us.png, id=118, 1233.408pt x 1197.273pt
+>
+File: MainMatter/images/10-Single-topic-help-us.png Graphic file (type png)
+<use MainMatter/images/10-Single-topic-help-us.png>
+Package pdftex.def Info: MainMatter/images/10-Single-topic-help-us.png  used on
+ input line 71.
+(pdftex.def)             Requested size: 503.04591pt x 488.30919pt.
+) (MainMatter/Chapter5.tex
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[8
+
+] [9 <./MainMatter/images/1-Homepage.png>] [10 <./MainMatter/images/2-Group-pag
+e.png>] [11 <./MainMatter/images/3-Multiple-topic-page.png>] [12 <./MainMatter/
+images/4-Single-topic-who-we-are.png>] [13 <./MainMatter/images/5-Single-topic-
+contact-us.png>] [14 <./MainMatter/images/6-Single-topic-news.png>] [15 <./Main
+Matter/images/7-Single-topic-FAQ.png>] [16 <./MainMatter/images/8-Group-event.p
+ng>] [17 <./MainMatter/images/9-Multiple-topic-Event.png>] [18 <./MainMatter/im
+ages/10-Single-topic-help-us.png>]
 Chapter 5.
-<MainMatter/images/ER.jpg, id=107, 1129.21875pt x 938.00438pt>
+<MainMatter/images/ER.jpg, id=185, 1129.21875pt x 938.00438pt>
 File: MainMatter/images/ER.jpg Graphic file (type jpg)
 <use MainMatter/images/ER.jpg>
 Package pdftex.def Info: MainMatter/images/ER.jpg  used on input line 18.
 (pdftex.def)             Requested size: 367.60843pt x 305.36307pt.
-[8
+[19
 
  <./MainMatter/images/ER.jpg>]
-<MainMatter/images/DB.jpg, id=113, 987.69pt x 1175.14032pt>
+<MainMatter/images/DB.jpg, id=191, 987.69pt x 1175.14032pt>
 File: MainMatter/images/DB.jpg Graphic file (type jpg)
 <use MainMatter/images/DB.jpg>
 Package pdftex.def Info: MainMatter/images/DB.jpg  used on input line 27.
 (pdftex.def)             Requested size: 365.67766pt x 435.06407pt.
-) [9 <./MainMatter/images/DB.jpg>]
+) [20 <./MainMatter/images/DB.jpg>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 268.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 268.
  (DD.aux)
@@ -2238,26 +2402,28 @@ Package logreq Info: Writing requests to 'DD.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34706 strings out of 493305
- 630552 string characters out of 3130237
- 1226102 words of memory out of 3000000
- 37665 multiletter control sequences out of 15000+200000
- 577826 words of font info for 76 fonts, out of 3000000 for 9000
+ 34831 strings out of 493305
+ 633602 string characters out of 3130237
+ 1229137 words of memory out of 3000000
+ 37731 multiletter control sequences out of 15000+200000
+ 578918 words of font info for 88 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,18n,96p,1149b,2274s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Alle/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc
-}<C:/Users/Alle/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmbx12.pfb><C:/Users/Alle/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmbxti10.pfb><C:/Users/Alle/AppData/Local/Programs/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Alle/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Alle/AppData/Local
-/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Alle/A
-ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Users/All
-e/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Users/A
-lle/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmro12.pfb>
-Output written on DD.pdf (11 pages, 1334051 bytes).
+ 61i,18n,96p,1750b,2274s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Alle/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy
+.enc}{C:/Users/Alle/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.
+enc}<C:/Users/Alle/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmbx12.pfb><C:/Users/Alle/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmbxti10.pfb><C:/Users/Alle/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Alle/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Alle/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/All
+e/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Users/
+Alle/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/User
+s/Alle/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmro12.pfb><C:/U
+sers/Alle/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
+Output written on DD.pdf (22 pages, 2542466 bytes).
 PDF statistics:
- 175 PDF objects out of 1000 (max. 8388607)
- 31 named destinations out of 1000 (max. 500000)
- 14462 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 262 PDF objects out of 1000 (max. 8388607)
+ 52 named destinations out of 1000 (max. 500000)
+ 14512 words of extra memory for PDF output out of 17280 (max. 10000000)
 
